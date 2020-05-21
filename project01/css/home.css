@@ -1,0 +1,27 @@
+#home, #chicago, #nyc, #tokyo, #paris, #suggestions {
+    background: skyblue;
+    color: white;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.intro {
+    width: 100vw;
+    height: 100vh;
+    display: none;
+    align-items: center;
+    flex-direction: column;
+    font-size: 1.2em;
+    line-height: 1.4em;
+    color: white;
+}
+
+.intro > * {
+    max-width: 50vw;
+}
+.intro h2 {
+    margin-top: 200px;
+}
+.intro p {
+    margin-bottom: 20px;
+}

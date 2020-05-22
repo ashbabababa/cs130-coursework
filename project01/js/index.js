@@ -1,7 +1,9 @@
 const chicago = ['chicago/chi01.jpg', 'chicago/chi02.jpg', 'chicago/chi03.jpg',
                  'chicago/chi04.jpg', 'chicago/chi05.jpg', 'chicago/chi06.jpg',
                  'chicago/chi07.jpg', 'chicago/chi08.jpg', 'chicago/chi09.jpg',
-                 'chicago/chi10.jpg', 'chicago/chi11.jpg', 'chicago/chi12.jpg'];
+                 'chicago/chi10.jpg', 'chicago/chi11.jpg', 'chicago/chi12.jpg',
+                 'chicago/chi13.jpg', 'chicago/chi14.jpg', 'chicago/chi15.jpg',
+                 'chicago/chi16.jpg'];
 
 const nyc = ['nyc/ny01.jpg', 'nyc/ny02.jpg', 'nyc/ny03.jpg',
              'nyc/ny04.jpg', 'nyc/ny05.jpg', 'nyc/ny06.jpg',
@@ -14,7 +16,8 @@ const nyc = ['nyc/ny01.jpg', 'nyc/ny02.jpg', 'nyc/ny03.jpg',
                 'tokyo/tokyo04.jpg', 'tokyo/tokyo05.jpg', 'tokyo/tokyo06.jpg',
                 'tokyo/tokyo07.jpg', 'tokyo/tokyo08.jpg', 'tokyo/tokyo09.jpg',
                 'tokyo/tokyo10.jpg', 'tokyo/tokyo11.jpg', 'tokyo/tokyo12.jpg',
-                'tokyo/tokyo13.jpg', 'tokyo/tokyo14.jpg'];
+                'tokyo/tokyo13.jpg', 'tokyo/tokyo14.jpg','tokyo/tokyo15.jpg',
+                'tokyo/tokyo16.jpg'];
 
 const paris = ['paris/paris01.jpg', 'paris/paris02.jpg', 'paris/paris03.jpg',
                'paris/paris04.jpg', 'paris/paris05.jpg', 'paris/paris06.jpg',
